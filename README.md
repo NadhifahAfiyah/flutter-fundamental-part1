@@ -1,1 +1,1 @@
-# dino Gazzzzzz
+![logo poliwangi](assets/logo_poliwangi.png)
