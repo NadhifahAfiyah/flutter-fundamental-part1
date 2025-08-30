@@ -4,8 +4,10 @@
 
 ## Laporan Praktikum Flutter Fundamental 1
 
-Pertama membuat project flutter baru dengan klik pengaturan lalu pilih command pallete dan ketik flutter new project
+Pertama membuat project flutter baru dengan klik pengaturan lalu pilih command pallete
 ![command pallete](<Screenshot 2025-08-28 074456.png>)
+
+dan ketik flutter new project
 ![flutter new project](<Screenshot 2025-08-28 074440.png>)
 
 kemudian pilih yang application
